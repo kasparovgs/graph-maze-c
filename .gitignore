@@ -1,11 +1,5 @@
-*.txt
 *.dot
-*.o
-*.so
 
-*.yaml
-
-*.txt
 *.dot
 
 /bin
